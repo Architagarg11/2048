@@ -1,0 +1,6 @@
+{
+  "name": "2048 Game",
+  "description": "A sleek, mobile-friendly, and fully interactive 2048 puzzle game with fluid animations, sound effects, touch swipe controls, and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
